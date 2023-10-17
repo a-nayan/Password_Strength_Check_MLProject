@@ -1,4 +1,4 @@
-# Password Strength prediction using Logistic Regression Algorithm(Multiclass Class Classification)
+# Password Strength prediction using Logistic Regression Algorithm(Multiclass Classification)
 
 Project Overview:
 
